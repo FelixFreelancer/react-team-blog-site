@@ -1,0 +1,25 @@
+.col-md-9 {
+    margin-left: auto;
+    margin-right: auto;
+}
+.card-group.row {
+    display: flex;
+    flex-wrap: wrap;
+}
+.card-group .mb-md-0.mb-4.col-md-4 {
+    flex: 0 0 33.333%;
+    /*padding: 0;*/
+    background-color: transparent !important;
+}
+.card.card-personal {
+    /*-webkit-box-shadow: none ;*/
+    /*-moz-box-shadow: none ;*/
+    /*box-shadow: none ;*/
+    padding: 0;
+}
+.member-card {
+    /*box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);*/
+}
+.card-group .card-personal:nth-child(n + 4) {
+    margin-top: 35px;
+}

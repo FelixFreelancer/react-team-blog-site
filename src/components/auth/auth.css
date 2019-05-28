@@ -1,0 +1,15 @@
+.MuiButtonBase-root-52 {
+    outline: none !important;
+}
+.login-welcome a {
+    color: white;
+}
+.login-welcome a:hover {
+    text-decoration: none;
+    color: white;
+}
+.auth-form input:first-child {
+    background-color: transparent;
+    height: auto;
+    border: none;
+}
