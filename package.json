@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "@material-ui/core": "^3.6.1",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "formsy-react": "^1.1.5",
     "lodash": "^4.17.10",
     "mdbreact": "^4.8.4",
